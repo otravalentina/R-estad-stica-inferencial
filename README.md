@@ -5,14 +5,14 @@ Profesor Julián Cruz
 
 ## Introducción - Lo que aprenderás y qué es Estadística Inferencial
 
-*Inferencia*: es el camino que sigue una idea para demostrarse como verdadera (desde que se crea hasta que se comprueba). 
+**Inferencia**: es el camino que sigue una idea para demostrarse como verdadera (desde que se crea hasta que se comprueba). 
 
 Tipos de inferencias: 
 1. deducción
 2. Inducción
 3. Abducción 
 
-*La inferencia estadística*:  es el razonamiento que nos permite generalizar conclusiones de la muestra de una población. 
+**La inferencia estadística**:  es el razonamiento que nos permite generalizar conclusiones de la muestra de una población. 
 
 EL objetivo del curso:
 
