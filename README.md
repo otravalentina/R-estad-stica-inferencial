@@ -20,6 +20,6 @@ Comprender a profundidad los procesos de estimación para nuestros modelos (tene
 
 Rigor matemático dentro de tu marca personal (te hace un mejor científico de datos y mucho más competitivo).
 
-#Clase 1 - Valor esperado condicional 
+## Clase 1 - Valor esperado condicional 
 
 **Repaso**: Las variables aleatorias son discretas o continuas (El primero se refiere a que tiene un cierto número de valores, mientras que el segundo puede tomar cualquier valor entre un rango dado.)
