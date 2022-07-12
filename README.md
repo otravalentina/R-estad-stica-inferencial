@@ -97,21 +97,21 @@ EL objetivo del curso:
 
 **Repaso:** Las variables aleatorias son discretas o continuas ( El primero se refiere a que tiene un cierto número de valores, mientras que el segundo puede tomar cualquier valor entre un rango dado.)
 
-![tipos_variables](src/tipos_variables.png)
+La sumatoria de la probabilidad de cada uno de los valores por el valor en cuestión.
 
 ![valor_esperado_1](src/valor_esperado_1.png)
 
-La sumatorio de la probabilidad de cada uno de los valores por el valor en cuestión.
+La funcion de densidad de la variable aleatorio acompañada por su valor
 
 ![valor_esperado_2](src/valor_esperado_2.png)
 
-La funcion de densidad de la variable aleatorio acompañada por su valor
 
 ![valor_esperado_3](src/valor_esperado_3.png)
 
-El valor esperado condicional es una funcion deterministica de la variable independiente, cuando este cambie el valor esperado de la variable dependiente también va a cambiar.
 
 ![valor_esperado_4](src/valor_esperado_4.png)
+
+El valor esperado condicional es una funcion deterministica de la variable independiente, cuando este cambie el valor esperado de la variable dependiente también va a cambiar.
 
 #### Ejemplo Variables Discretas
 
@@ -137,7 +137,9 @@ Esto nos es aplicado a los algoritmos de Machine Learning (Aprendizaje supervisa
 
 ![tipos_aprendizaje](src/tipos_aprendizaje.png)
 
-Todo el aprendizaje supervisado se trata de **valor esperado condicional**
+Todo el aprendizaje supervisado se trata de **valor esperado condicional** 
+
+El aprendizaje no supervisado la misma maquina con sus algortimos entrega unos resultados, lo organiza a su modo. 
 
 ![valor_esperado_8](src/valor_esperado_8.png)
 
